@@ -1,1 +1,1 @@
-# Generative-SEO
+# Generative Search Engine Optimization
